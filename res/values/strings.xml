@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidTabajo</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="add_emp">Agregar Empleado</string>
+    <string name="update_emp">Actualizar Empleado</string>
+    <string name="name">Empleado Nombre</string>
+    <string name="dob">Empleado Cumple</string>
+    <string name="salary">Salario Empleado</string>
+    <string name="update">Actualizar</string>
+    <string name="add">Agregar</string>
+    <string name="reset">Limpiar</string>
+    <string name="cancel">Cancelar</string>
+
+</resources>
